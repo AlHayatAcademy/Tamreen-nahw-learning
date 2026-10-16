@@ -1,0 +1,3872 @@
+{
+  "scope": "فہرست کے علمی عناوین کا نئے نصاب سے موضوعاتی مقابلہ؛ ہر کتابی جملے یا ہر اختلافی فرع کی لفظی نقل کی تصدیق نہیں۔",
+  "books": [
+    {
+      "name": "تسہیل النحو",
+      "basis": "PDF فہرست 2–3",
+      "topics": [
+        {
+          "sourceTopic": "علم نحو",
+          "lessonIds": [
+            "n01",
+            "n02"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n01-concept",
+            "n01-word-1",
+            "n01-word-2",
+            "n01-repair",
+            "n01-meaning-1",
+            "n01-meaning-2",
+            "n01-apply",
+            "n02-concept",
+            "n02-word-1",
+            "n02-word-2",
+            "n02-word-3",
+            "n02-word-4",
+            "n02-repair",
+            "n02-meaning-1",
+            "n02-meaning-2",
+            "n02-meaning-3",
+            "n02-meaning-4",
+            "n02-apply"
+          ]
+        },
+        {
+          "sourceTopic": "کلمہ کی اقسام",
+          "lessonIds": [
+            "n02"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n02-concept",
+            "n02-word-1",
+            "n02-word-2",
+            "n02-word-3",
+            "n02-word-4",
+            "n02-repair",
+            "n02-meaning-1",
+            "n02-meaning-2",
+            "n02-meaning-3",
+            "n02-meaning-4",
+            "n02-apply"
+          ]
+        },
+        {
+          "sourceTopic": "تذکیر و تانیث",
+          "lessonIds": [
+            "n04"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n04-concept",
+            "n04-word-1",
+            "n04-word-2",
+            "n04-repair",
+            "n04-meaning-1",
+            "n04-meaning-2",
+            "n04-apply"
+          ]
+        },
+        {
+          "sourceTopic": "واحد، مثنیٰ، جمع",
+          "lessonIds": [
+            "n04",
+            "n15",
+            "n16"
+          ],
+          "sectionCount": 6,
+          "practiceIds": [
+            "n04-concept",
+            "n04-word-1",
+            "n04-word-2",
+            "n04-repair",
+            "n04-meaning-1",
+            "n04-meaning-2",
+            "n04-apply",
+            "n15-concept",
+            "n15-word-1",
+            "n15-word-2",
+            "n15-repair",
+            "n15-meaning-1",
+            "n15-meaning-2",
+            "n15-apply",
+            "n16-concept",
+            "n16-word-1",
+            "n16-word-2",
+            "n16-repair",
+            "n16-meaning-1",
+            "n16-meaning-2",
+            "n16-apply"
+          ]
+        },
+        {
+          "sourceTopic": "معرب و مبنی",
+          "lessonIds": [
+            "n13",
+            "n69"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n13-concept",
+            "n13-word-1",
+            "n13-word-2",
+            "n13-repair",
+            "n13-meaning-1",
+            "n13-meaning-2",
+            "n13-apply",
+            "n69-concept",
+            "n69-repair",
+            "n69-word-1",
+            "n69-word-2",
+            "n69-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "اسم کے مبنی ہونے اور محل کے احکام",
+          "lessonIds": [
+            "n05",
+            "n06",
+            "n07",
+            "n13",
+            "n51",
+            "n66"
+          ],
+          "sectionCount": 13,
+          "practiceIds": [
+            "n05-concept",
+            "n05-word-1",
+            "n05-word-2",
+            "n05-repair",
+            "n05-meaning-1",
+            "n05-meaning-2",
+            "n05-apply",
+            "n06-concept",
+            "n06-word-1",
+            "n06-word-2",
+            "n06-repair",
+            "n06-meaning-1",
+            "n06-meaning-2",
+            "n06-apply",
+            "n07-concept",
+            "n07-word-1",
+            "n07-word-2",
+            "n07-word-3",
+            "n07-repair",
+            "n07-meaning-1",
+            "n07-meaning-2",
+            "n07-meaning-3",
+            "n07-apply",
+            "n13-concept",
+            "n13-word-1",
+            "n13-word-2",
+            "n13-repair",
+            "n13-meaning-1",
+            "n13-meaning-2",
+            "n13-apply",
+            "n51-concept",
+            "n51-word-1",
+            "n51-word-2",
+            "n51-word-3",
+            "n51-repair",
+            "n51-meaning-1",
+            "n51-meaning-2",
+            "n51-meaning-3",
+            "n51-apply",
+            "n66-concept",
+            "n66-word-1",
+            "n66-repair",
+            "n66-meaning-1",
+            "n66-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اعراب اور نیابتی علامتیں",
+          "lessonIds": [
+            "n14",
+            "n15",
+            "n16",
+            "n17",
+            "n18",
+            "n19"
+          ],
+          "sectionCount": 12,
+          "practiceIds": [
+            "n14-concept",
+            "n14-word-1",
+            "n14-word-2",
+            "n14-repair",
+            "n14-meaning-1",
+            "n14-meaning-2",
+            "n14-apply",
+            "n15-concept",
+            "n15-word-1",
+            "n15-word-2",
+            "n15-repair",
+            "n15-meaning-1",
+            "n15-meaning-2",
+            "n15-apply",
+            "n16-concept",
+            "n16-word-1",
+            "n16-word-2",
+            "n16-repair",
+            "n16-meaning-1",
+            "n16-meaning-2",
+            "n16-apply",
+            "n17-concept",
+            "n17-word-1",
+            "n17-word-2",
+            "n17-repair",
+            "n17-meaning-1",
+            "n17-meaning-2",
+            "n17-apply",
+            "n18-concept",
+            "n18-word-1",
+            "n18-word-2",
+            "n18-repair",
+            "n18-meaning-1",
+            "n18-meaning-2",
+            "n18-apply",
+            "n19-concept",
+            "n19-word-1",
+            "n19-word-2",
+            "n19-repair",
+            "n19-meaning-1",
+            "n19-meaning-2",
+            "n19-apply"
+          ]
+        },
+        {
+          "sourceTopic": "تعریف و تنکیر",
+          "lessonIds": [
+            "n03"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n03-concept",
+            "n03-word-1",
+            "n03-word-2",
+            "n03-repair",
+            "n03-meaning-1",
+            "n03-meaning-2",
+            "n03-apply"
+          ]
+        },
+        {
+          "sourceTopic": "منصرف و غیر منصرف",
+          "lessonIds": [
+            "n18"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n18-concept",
+            "n18-word-1",
+            "n18-word-2",
+            "n18-repair",
+            "n18-meaning-1",
+            "n18-meaning-2",
+            "n18-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مرفوعات، منصوبات، مجرورات",
+          "lessonIds": [
+            "n14",
+            "n20",
+            "n22",
+            "n35",
+            "n61"
+          ],
+          "sectionCount": 11,
+          "practiceIds": [
+            "n14-concept",
+            "n14-word-1",
+            "n14-word-2",
+            "n14-repair",
+            "n14-meaning-1",
+            "n14-meaning-2",
+            "n14-apply",
+            "n20-concept",
+            "n20-word-1",
+            "n20-word-2",
+            "n20-word-3",
+            "n20-repair",
+            "n20-meaning-1",
+            "n20-meaning-2",
+            "n20-meaning-3",
+            "n20-apply",
+            "n22-concept",
+            "n22-word-1",
+            "n22-word-2",
+            "n22-word-3",
+            "n22-repair",
+            "n22-meaning-1",
+            "n22-meaning-2",
+            "n22-meaning-3",
+            "n22-apply",
+            "n35-concept",
+            "n35-word-1",
+            "n35-word-2",
+            "n35-word-3",
+            "n35-repair",
+            "n35-meaning-1",
+            "n35-meaning-2",
+            "n35-meaning-3",
+            "n35-apply",
+            "n61-concept",
+            "n61-word-1",
+            "n61-word-2",
+            "n61-word-3",
+            "n61-word-4",
+            "n61-repair",
+            "n61-meaning-1",
+            "n61-meaning-2",
+            "n61-meaning-3",
+            "n61-meaning-4",
+            "n61-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مرفوعات",
+          "lessonIds": [
+            "n11",
+            "n20",
+            "n23"
+          ],
+          "sectionCount": 6,
+          "practiceIds": [
+            "n11-concept",
+            "n11-word-1",
+            "n11-word-2",
+            "n11-repair",
+            "n11-meaning-1",
+            "n11-meaning-2",
+            "n11-apply",
+            "n20-concept",
+            "n20-word-1",
+            "n20-word-2",
+            "n20-word-3",
+            "n20-repair",
+            "n20-meaning-1",
+            "n20-meaning-2",
+            "n20-meaning-3",
+            "n20-apply",
+            "n23-concept",
+            "n23-word-1",
+            "n23-word-2",
+            "n23-repair",
+            "n23-meaning-1",
+            "n23-meaning-2",
+            "n23-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مبتدا و خبر اور حذف",
+          "lessonIds": [
+            "n11",
+            "n12",
+            "n67"
+          ],
+          "sectionCount": 6,
+          "practiceIds": [
+            "n11-concept",
+            "n11-word-1",
+            "n11-word-2",
+            "n11-repair",
+            "n11-meaning-1",
+            "n11-meaning-2",
+            "n11-apply",
+            "n12-concept",
+            "n12-word-1",
+            "n12-word-2",
+            "n12-repair",
+            "n12-meaning-1",
+            "n12-meaning-2",
+            "n12-apply",
+            "n67-concept",
+            "n67-word-1",
+            "n67-word-2",
+            "n67-word-3",
+            "n67-repair",
+            "n67-meaning-1",
+            "n67-meaning-2",
+            "n67-meaning-3",
+            "n67-apply"
+          ]
+        },
+        {
+          "sourceTopic": "نواسخ",
+          "lessonIds": [
+            "n29",
+            "n30",
+            "n31",
+            "n32",
+            "n33",
+            "n34"
+          ],
+          "sectionCount": 14,
+          "practiceIds": [
+            "n29-concept",
+            "n29-word-1",
+            "n29-word-2",
+            "n29-word-3",
+            "n29-repair",
+            "n29-meaning-1",
+            "n29-meaning-2",
+            "n29-meaning-3",
+            "n29-apply",
+            "n30-concept",
+            "n30-word-1",
+            "n30-word-2",
+            "n30-word-3",
+            "n30-repair",
+            "n30-meaning-1",
+            "n30-meaning-2",
+            "n30-meaning-3",
+            "n30-apply",
+            "n31-concept",
+            "n31-word-1",
+            "n31-word-2",
+            "n31-word-3",
+            "n31-repair",
+            "n31-meaning-1",
+            "n31-meaning-2",
+            "n31-meaning-3",
+            "n31-apply",
+            "n32-concept",
+            "n32-word-1",
+            "n32-word-2",
+            "n32-word-3",
+            "n32-repair",
+            "n32-meaning-1",
+            "n32-meaning-2",
+            "n32-meaning-3",
+            "n32-apply",
+            "n33-concept",
+            "n33-word-1",
+            "n33-word-2",
+            "n33-word-3",
+            "n33-word-4",
+            "n33-repair",
+            "n33-meaning-1",
+            "n33-meaning-2",
+            "n33-meaning-3",
+            "n33-meaning-4",
+            "n33-apply",
+            "n34-concept",
+            "n34-word-1",
+            "n34-word-2",
+            "n34-word-3",
+            "n34-repair",
+            "n34-meaning-1",
+            "n34-meaning-2",
+            "n34-meaning-3",
+            "n34-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مقاربہ، رجاء، شروع",
+          "lessonIds": [
+            "n30"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n30-concept",
+            "n30-word-1",
+            "n30-word-2",
+            "n30-word-3",
+            "n30-repair",
+            "n30-meaning-1",
+            "n30-meaning-2",
+            "n30-meaning-3",
+            "n30-apply"
+          ]
+        },
+        {
+          "sourceTopic": "إن، ما، لا، لات",
+          "lessonIds": [
+            "n31",
+            "n32",
+            "n33"
+          ],
+          "sectionCount": 8,
+          "practiceIds": [
+            "n31-concept",
+            "n31-word-1",
+            "n31-word-2",
+            "n31-word-3",
+            "n31-repair",
+            "n31-meaning-1",
+            "n31-meaning-2",
+            "n31-meaning-3",
+            "n31-apply",
+            "n32-concept",
+            "n32-word-1",
+            "n32-word-2",
+            "n32-word-3",
+            "n32-repair",
+            "n32-meaning-1",
+            "n32-meaning-2",
+            "n32-meaning-3",
+            "n32-apply",
+            "n33-concept",
+            "n33-word-1",
+            "n33-word-2",
+            "n33-word-3",
+            "n33-word-4",
+            "n33-repair",
+            "n33-meaning-1",
+            "n33-meaning-2",
+            "n33-meaning-3",
+            "n33-meaning-4",
+            "n33-apply"
+          ]
+        },
+        {
+          "sourceTopic": "حروف مشبہ بالفعل",
+          "lessonIds": [
+            "n31"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n31-concept",
+            "n31-word-1",
+            "n31-word-2",
+            "n31-word-3",
+            "n31-repair",
+            "n31-meaning-1",
+            "n31-meaning-2",
+            "n31-meaning-3",
+            "n31-apply"
+          ]
+        },
+        {
+          "sourceTopic": "إن اور أن کے استعمال",
+          "lessonIds": [
+            "n31",
+            "n62"
+          ],
+          "sectionCount": 5,
+          "practiceIds": [
+            "n31-concept",
+            "n31-word-1",
+            "n31-word-2",
+            "n31-word-3",
+            "n31-repair",
+            "n31-meaning-1",
+            "n31-meaning-2",
+            "n31-meaning-3",
+            "n31-apply",
+            "n62-concept",
+            "n62-word-1",
+            "n62-word-2",
+            "n62-word-3",
+            "n62-repair",
+            "n62-meaning-1",
+            "n62-meaning-2",
+            "n62-meaning-3",
+            "n62-apply"
+          ]
+        },
+        {
+          "sourceTopic": "لا نفی جنس",
+          "lessonIds": [
+            "n33"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n33-concept",
+            "n33-word-1",
+            "n33-word-2",
+            "n33-word-3",
+            "n33-word-4",
+            "n33-repair",
+            "n33-meaning-1",
+            "n33-meaning-2",
+            "n33-meaning-3",
+            "n33-meaning-4",
+            "n33-apply"
+          ]
+        },
+        {
+          "sourceTopic": "افعال قلوب",
+          "lessonIds": [
+            "n34",
+            "n24"
+          ],
+          "sectionCount": 5,
+          "practiceIds": [
+            "n34-concept",
+            "n34-word-1",
+            "n34-word-2",
+            "n34-word-3",
+            "n34-repair",
+            "n34-meaning-1",
+            "n34-meaning-2",
+            "n34-meaning-3",
+            "n34-apply",
+            "n24-concept",
+            "n24-word-1",
+            "n24-word-2",
+            "n24-word-3",
+            "n24-word-4",
+            "n24-repair",
+            "n24-meaning-1",
+            "n24-meaning-2",
+            "n24-meaning-3",
+            "n24-meaning-4",
+            "n24-apply"
+          ]
+        },
+        {
+          "sourceTopic": "فعل کی اقسام",
+          "lessonIds": [
+            "n24",
+            "n69",
+            "n70"
+          ],
+          "sectionCount": 7,
+          "practiceIds": [
+            "n24-concept",
+            "n24-word-1",
+            "n24-word-2",
+            "n24-word-3",
+            "n24-word-4",
+            "n24-repair",
+            "n24-meaning-1",
+            "n24-meaning-2",
+            "n24-meaning-3",
+            "n24-meaning-4",
+            "n24-apply",
+            "n69-concept",
+            "n69-repair",
+            "n69-word-1",
+            "n69-word-2",
+            "n69-word-3",
+            "n70-concept",
+            "n70-repair",
+            "n70-word-1",
+            "n70-word-2"
+          ]
+        },
+        {
+          "sourceTopic": "جملہ فعلیہ",
+          "lessonIds": [
+            "n20",
+            "n21",
+            "n22",
+            "n23"
+          ],
+          "sectionCount": 8,
+          "practiceIds": [
+            "n20-concept",
+            "n20-word-1",
+            "n20-word-2",
+            "n20-word-3",
+            "n20-repair",
+            "n20-meaning-1",
+            "n20-meaning-2",
+            "n20-meaning-3",
+            "n20-apply",
+            "n21-concept",
+            "n21-word-1",
+            "n21-word-2",
+            "n21-repair",
+            "n21-meaning-1",
+            "n21-meaning-2",
+            "n21-apply",
+            "n22-concept",
+            "n22-word-1",
+            "n22-word-2",
+            "n22-word-3",
+            "n22-repair",
+            "n22-meaning-1",
+            "n22-meaning-2",
+            "n22-meaning-3",
+            "n22-apply",
+            "n23-concept",
+            "n23-word-1",
+            "n23-word-2",
+            "n23-repair",
+            "n23-meaning-1",
+            "n23-meaning-2",
+            "n23-apply"
+          ]
+        },
+        {
+          "sourceTopic": "منصوبات",
+          "lessonIds": [
+            "n35",
+            "n36",
+            "n37",
+            "n38",
+            "n39",
+            "n40"
+          ],
+          "sectionCount": 12,
+          "practiceIds": [
+            "n35-concept",
+            "n35-word-1",
+            "n35-word-2",
+            "n35-word-3",
+            "n35-repair",
+            "n35-meaning-1",
+            "n35-meaning-2",
+            "n35-meaning-3",
+            "n35-apply",
+            "n36-concept",
+            "n36-word-1",
+            "n36-word-2",
+            "n36-word-3",
+            "n36-repair",
+            "n36-meaning-1",
+            "n36-meaning-2",
+            "n36-meaning-3",
+            "n36-apply",
+            "n37-concept",
+            "n37-word-1",
+            "n37-word-2",
+            "n37-word-3",
+            "n37-word-4",
+            "n37-repair",
+            "n37-meaning-1",
+            "n37-meaning-2",
+            "n37-meaning-3",
+            "n37-meaning-4",
+            "n37-apply",
+            "n38-concept",
+            "n38-word-1",
+            "n38-word-2",
+            "n38-repair",
+            "n38-meaning-1",
+            "n38-meaning-2",
+            "n38-apply",
+            "n39-concept",
+            "n39-word-1",
+            "n39-word-2",
+            "n39-word-3",
+            "n39-word-4",
+            "n39-repair",
+            "n39-meaning-1",
+            "n39-meaning-2",
+            "n39-meaning-3",
+            "n39-meaning-4",
+            "n39-apply",
+            "n40-concept",
+            "n40-word-1",
+            "n40-word-2",
+            "n40-word-3",
+            "n40-repair",
+            "n40-meaning-1",
+            "n40-meaning-2",
+            "n40-meaning-3",
+            "n40-apply"
+          ]
+        },
+        {
+          "sourceTopic": "منادى",
+          "lessonIds": [
+            "n42"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n42-concept",
+            "n42-word-1",
+            "n42-word-2",
+            "n42-word-3",
+            "n42-repair",
+            "n42-meaning-1",
+            "n42-meaning-2",
+            "n42-meaning-3",
+            "n42-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اغراء و تحذیر",
+          "lessonIds": [
+            "n43"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n43-concept",
+            "n43-word-1",
+            "n43-word-2",
+            "n43-repair",
+            "n43-meaning-1",
+            "n43-meaning-2",
+            "n43-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اشتغال",
+          "lessonIds": [
+            "n45"
+          ],
+          "sectionCount": 1,
+          "practiceIds": [
+            "n45-concept",
+            "n45-word-1",
+            "n45-word-2",
+            "n45-repair",
+            "n45-meaning-1",
+            "n45-meaning-2",
+            "n45-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مفعول مطلق",
+          "lessonIds": [
+            "n37"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n37-concept",
+            "n37-word-1",
+            "n37-word-2",
+            "n37-word-3",
+            "n37-word-4",
+            "n37-repair",
+            "n37-meaning-1",
+            "n37-meaning-2",
+            "n37-meaning-3",
+            "n37-meaning-4",
+            "n37-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مفعول فیہ",
+          "lessonIds": [
+            "n39"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n39-concept",
+            "n39-word-1",
+            "n39-word-2",
+            "n39-word-3",
+            "n39-word-4",
+            "n39-repair",
+            "n39-meaning-1",
+            "n39-meaning-2",
+            "n39-meaning-3",
+            "n39-meaning-4",
+            "n39-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مفعول لہ",
+          "lessonIds": [
+            "n38"
+          ],
+          "sectionCount": 1,
+          "practiceIds": [
+            "n38-concept",
+            "n38-word-1",
+            "n38-word-2",
+            "n38-repair",
+            "n38-meaning-1",
+            "n38-meaning-2",
+            "n38-apply"
+          ]
+        },
+        {
+          "sourceTopic": "حال",
+          "lessonIds": [
+            "n35"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n35-concept",
+            "n35-word-1",
+            "n35-word-2",
+            "n35-word-3",
+            "n35-repair",
+            "n35-meaning-1",
+            "n35-meaning-2",
+            "n35-meaning-3",
+            "n35-apply"
+          ]
+        },
+        {
+          "sourceTopic": "تمییز",
+          "lessonIds": [
+            "n36"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n36-concept",
+            "n36-word-1",
+            "n36-word-2",
+            "n36-word-3",
+            "n36-repair",
+            "n36-meaning-1",
+            "n36-meaning-2",
+            "n36-meaning-3",
+            "n36-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسماء اعداد",
+          "lessonIds": [
+            "n50",
+            "n74"
+          ],
+          "sectionCount": 5,
+          "practiceIds": [
+            "n50-concept",
+            "n50-word-1",
+            "n50-word-2",
+            "n50-word-3",
+            "n50-repair",
+            "n50-meaning-1",
+            "n50-meaning-2",
+            "n50-meaning-3",
+            "n50-apply",
+            "n74-concept",
+            "n74-repair",
+            "n74-word-1",
+            "n74-word-2",
+            "n74-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "مستثنیٰ",
+          "lessonIds": [
+            "n41"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n41-concept",
+            "n41-word-1",
+            "n41-word-2",
+            "n41-word-3",
+            "n41-word-4",
+            "n41-repair",
+            "n41-meaning-1",
+            "n41-meaning-2",
+            "n41-meaning-3",
+            "n41-meaning-4",
+            "n41-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مجرورات",
+          "lessonIds": [
+            "n09",
+            "n61"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n09-concept",
+            "n09-word-1",
+            "n09-word-2",
+            "n09-word-3",
+            "n09-repair",
+            "n09-meaning-1",
+            "n09-meaning-2",
+            "n09-meaning-3",
+            "n09-apply",
+            "n61-concept",
+            "n61-word-1",
+            "n61-word-2",
+            "n61-word-3",
+            "n61-word-4",
+            "n61-repair",
+            "n61-meaning-1",
+            "n61-meaning-2",
+            "n61-meaning-3",
+            "n61-meaning-4",
+            "n61-apply"
+          ]
+        },
+        {
+          "sourceTopic": "توابع",
+          "lessonIds": [
+            "n46",
+            "n47",
+            "n48",
+            "n49"
+          ],
+          "sectionCount": 9,
+          "practiceIds": [
+            "n46-concept",
+            "n46-word-1",
+            "n46-word-2",
+            "n46-word-3",
+            "n46-word-4",
+            "n46-repair",
+            "n46-meaning-1",
+            "n46-meaning-2",
+            "n46-meaning-3",
+            "n46-meaning-4",
+            "n46-apply",
+            "n47-concept",
+            "n47-word-1",
+            "n47-word-2",
+            "n47-word-3",
+            "n47-word-4",
+            "n47-repair",
+            "n47-meaning-1",
+            "n47-meaning-2",
+            "n47-meaning-3",
+            "n47-meaning-4",
+            "n47-apply",
+            "n48-concept",
+            "n48-word-1",
+            "n48-word-2",
+            "n48-word-3",
+            "n48-repair",
+            "n48-meaning-1",
+            "n48-meaning-2",
+            "n48-meaning-3",
+            "n48-apply",
+            "n49-concept",
+            "n49-word-1",
+            "n49-word-2",
+            "n49-word-3",
+            "n49-repair",
+            "n49-meaning-1",
+            "n49-meaning-2",
+            "n49-meaning-3",
+            "n49-apply"
+          ]
+        },
+        {
+          "sourceTopic": "تاکید",
+          "lessonIds": [
+            "n48"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n48-concept",
+            "n48-word-1",
+            "n48-word-2",
+            "n48-word-3",
+            "n48-repair",
+            "n48-meaning-1",
+            "n48-meaning-2",
+            "n48-meaning-3",
+            "n48-apply"
+          ]
+        },
+        {
+          "sourceTopic": "عطف",
+          "lessonIds": [
+            "n47"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n47-concept",
+            "n47-word-1",
+            "n47-word-2",
+            "n47-word-3",
+            "n47-word-4",
+            "n47-repair",
+            "n47-meaning-1",
+            "n47-meaning-2",
+            "n47-meaning-3",
+            "n47-meaning-4",
+            "n47-apply"
+          ]
+        },
+        {
+          "sourceTopic": "بدل",
+          "lessonIds": [
+            "n49"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n49-concept",
+            "n49-word-1",
+            "n49-word-2",
+            "n49-word-3",
+            "n49-repair",
+            "n49-meaning-1",
+            "n49-meaning-2",
+            "n49-meaning-3",
+            "n49-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مبنی کلمات کی اقسام",
+          "lessonIds": [
+            "n05",
+            "n06",
+            "n07",
+            "n13",
+            "n28",
+            "n39",
+            "n51",
+            "n66"
+          ],
+          "sectionCount": 17,
+          "practiceIds": [
+            "n05-concept",
+            "n05-word-1",
+            "n05-word-2",
+            "n05-repair",
+            "n05-meaning-1",
+            "n05-meaning-2",
+            "n05-apply",
+            "n06-concept",
+            "n06-word-1",
+            "n06-word-2",
+            "n06-repair",
+            "n06-meaning-1",
+            "n06-meaning-2",
+            "n06-apply",
+            "n07-concept",
+            "n07-word-1",
+            "n07-word-2",
+            "n07-word-3",
+            "n07-repair",
+            "n07-meaning-1",
+            "n07-meaning-2",
+            "n07-meaning-3",
+            "n07-apply",
+            "n13-concept",
+            "n13-word-1",
+            "n13-word-2",
+            "n13-repair",
+            "n13-meaning-1",
+            "n13-meaning-2",
+            "n13-apply",
+            "n28-concept",
+            "n28-word-1",
+            "n28-word-2",
+            "n28-word-3",
+            "n28-repair",
+            "n28-meaning-1",
+            "n28-meaning-2",
+            "n28-meaning-3",
+            "n28-apply",
+            "n39-concept",
+            "n39-word-1",
+            "n39-word-2",
+            "n39-word-3",
+            "n39-word-4",
+            "n39-repair",
+            "n39-meaning-1",
+            "n39-meaning-2",
+            "n39-meaning-3",
+            "n39-meaning-4",
+            "n39-apply",
+            "n51-concept",
+            "n51-word-1",
+            "n51-word-2",
+            "n51-word-3",
+            "n51-repair",
+            "n51-meaning-1",
+            "n51-meaning-2",
+            "n51-meaning-3",
+            "n51-apply",
+            "n66-concept",
+            "n66-word-1",
+            "n66-repair",
+            "n66-meaning-1",
+            "n66-apply"
+          ]
+        },
+        {
+          "sourceTopic": "ضمائر",
+          "lessonIds": [
+            "n05"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n05-concept",
+            "n05-word-1",
+            "n05-word-2",
+            "n05-repair",
+            "n05-meaning-1",
+            "n05-meaning-2",
+            "n05-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسماء موصولہ",
+          "lessonIds": [
+            "n07"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n07-concept",
+            "n07-word-1",
+            "n07-word-2",
+            "n07-word-3",
+            "n07-repair",
+            "n07-meaning-1",
+            "n07-meaning-2",
+            "n07-meaning-3",
+            "n07-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسماء افعال",
+          "lessonIds": [
+            "n66"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n66-concept",
+            "n66-word-1",
+            "n66-repair",
+            "n66-meaning-1",
+            "n66-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسماء اصوات",
+          "lessonIds": [
+            "n66"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n66-concept",
+            "n66-word-1",
+            "n66-repair",
+            "n66-meaning-1",
+            "n66-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسماء شرط",
+          "lessonIds": [
+            "n28",
+            "n75"
+          ],
+          "sectionCount": 5,
+          "practiceIds": [
+            "n28-concept",
+            "n28-word-1",
+            "n28-word-2",
+            "n28-word-3",
+            "n28-repair",
+            "n28-meaning-1",
+            "n28-meaning-2",
+            "n28-meaning-3",
+            "n28-apply",
+            "n75-concept",
+            "n75-repair",
+            "n75-word-1",
+            "n75-word-2",
+            "n75-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "ظروف",
+          "lessonIds": [
+            "n39"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n39-concept",
+            "n39-word-1",
+            "n39-word-2",
+            "n39-word-3",
+            "n39-word-4",
+            "n39-repair",
+            "n39-meaning-1",
+            "n39-meaning-2",
+            "n39-meaning-3",
+            "n39-meaning-4",
+            "n39-apply"
+          ]
+        },
+        {
+          "sourceTopic": "استفہام",
+          "lessonIds": [
+            "n51",
+            "n74"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n51-concept",
+            "n51-word-1",
+            "n51-word-2",
+            "n51-word-3",
+            "n51-repair",
+            "n51-meaning-1",
+            "n51-meaning-2",
+            "n51-meaning-3",
+            "n51-apply",
+            "n74-concept",
+            "n74-repair",
+            "n74-word-1",
+            "n74-word-2",
+            "n74-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "فعل کے احوال",
+          "lessonIds": [
+            "n25",
+            "n26",
+            "n27",
+            "n69"
+          ],
+          "sectionCount": 8,
+          "practiceIds": [
+            "n25-concept",
+            "n25-word-1",
+            "n25-word-2",
+            "n25-repair",
+            "n25-meaning-1",
+            "n25-meaning-2",
+            "n25-apply",
+            "n26-concept",
+            "n26-word-1",
+            "n26-word-2",
+            "n26-word-3",
+            "n26-repair",
+            "n26-meaning-1",
+            "n26-meaning-2",
+            "n26-meaning-3",
+            "n26-apply",
+            "n27-concept",
+            "n27-word-1",
+            "n27-word-2",
+            "n27-word-3",
+            "n27-repair",
+            "n27-meaning-1",
+            "n27-meaning-2",
+            "n27-meaning-3",
+            "n27-apply",
+            "n69-concept",
+            "n69-repair",
+            "n69-word-1",
+            "n69-word-2",
+            "n69-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "مضارع کا اعراب",
+          "lessonIds": [
+            "n25",
+            "n26",
+            "n27"
+          ],
+          "sectionCount": 6,
+          "practiceIds": [
+            "n25-concept",
+            "n25-word-1",
+            "n25-word-2",
+            "n25-repair",
+            "n25-meaning-1",
+            "n25-meaning-2",
+            "n25-apply",
+            "n26-concept",
+            "n26-word-1",
+            "n26-word-2",
+            "n26-word-3",
+            "n26-repair",
+            "n26-meaning-1",
+            "n26-meaning-2",
+            "n26-meaning-3",
+            "n26-apply",
+            "n27-concept",
+            "n27-word-1",
+            "n27-word-2",
+            "n27-word-3",
+            "n27-repair",
+            "n27-meaning-1",
+            "n27-meaning-2",
+            "n27-meaning-3",
+            "n27-apply"
+          ]
+        },
+        {
+          "sourceTopic": "نصب مضارع",
+          "lessonIds": [
+            "n26"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n26-concept",
+            "n26-word-1",
+            "n26-word-2",
+            "n26-word-3",
+            "n26-repair",
+            "n26-meaning-1",
+            "n26-meaning-2",
+            "n26-meaning-3",
+            "n26-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مضارع کی نصب کی علامتیں",
+          "lessonIds": [
+            "n26"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n26-concept",
+            "n26-word-1",
+            "n26-word-2",
+            "n26-word-3",
+            "n26-repair",
+            "n26-meaning-1",
+            "n26-meaning-2",
+            "n26-meaning-3",
+            "n26-apply"
+          ]
+        },
+        {
+          "sourceTopic": "جزم مضارع",
+          "lessonIds": [
+            "n27"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n27-concept",
+            "n27-word-1",
+            "n27-word-2",
+            "n27-word-3",
+            "n27-repair",
+            "n27-meaning-1",
+            "n27-meaning-2",
+            "n27-meaning-3",
+            "n27-apply"
+          ]
+        },
+        {
+          "sourceTopic": "شرط و جزا",
+          "lessonIds": [
+            "n28",
+            "n75"
+          ],
+          "sectionCount": 5,
+          "practiceIds": [
+            "n28-concept",
+            "n28-word-1",
+            "n28-word-2",
+            "n28-word-3",
+            "n28-repair",
+            "n28-meaning-1",
+            "n28-meaning-2",
+            "n28-meaning-3",
+            "n28-apply",
+            "n75-concept",
+            "n75-repair",
+            "n75-word-1",
+            "n75-word-2",
+            "n75-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "مدح و ذم",
+          "lessonIds": [
+            "n55"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n55-concept",
+            "n55-word-1",
+            "n55-word-2",
+            "n55-word-3",
+            "n55-repair",
+            "n55-meaning-1",
+            "n55-meaning-2",
+            "n55-meaning-3",
+            "n55-apply"
+          ]
+        },
+        {
+          "sourceTopic": "تعجب",
+          "lessonIds": [
+            "n54"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n54-concept",
+            "n54-word-1",
+            "n54-word-2",
+            "n54-word-3",
+            "n54-repair",
+            "n54-meaning-1",
+            "n54-meaning-2",
+            "n54-meaning-3",
+            "n54-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسماء عاملہ",
+          "lessonIds": [
+            "n56",
+            "n57",
+            "n58",
+            "n59",
+            "n60"
+          ],
+          "sectionCount": 9,
+          "practiceIds": [
+            "n56-concept",
+            "n56-word-1",
+            "n56-word-2",
+            "n56-word-3",
+            "n56-word-4",
+            "n56-repair",
+            "n56-meaning-1",
+            "n56-meaning-2",
+            "n56-meaning-3",
+            "n56-meaning-4",
+            "n56-apply",
+            "n57-concept",
+            "n57-word-1",
+            "n57-word-2",
+            "n57-word-3",
+            "n57-repair",
+            "n57-meaning-1",
+            "n57-meaning-2",
+            "n57-meaning-3",
+            "n57-apply",
+            "n58-concept",
+            "n58-word-1",
+            "n58-word-2",
+            "n58-word-3",
+            "n58-repair",
+            "n58-meaning-1",
+            "n58-meaning-2",
+            "n58-meaning-3",
+            "n58-apply",
+            "n59-concept",
+            "n59-word-1",
+            "n59-word-2",
+            "n59-word-3",
+            "n59-word-4",
+            "n59-repair",
+            "n59-meaning-1",
+            "n59-meaning-2",
+            "n59-meaning-3",
+            "n59-meaning-4",
+            "n59-apply",
+            "n60-concept",
+            "n60-word-1",
+            "n60-word-2",
+            "n60-word-3",
+            "n60-word-4",
+            "n60-repair",
+            "n60-meaning-1",
+            "n60-meaning-2",
+            "n60-meaning-3",
+            "n60-meaning-4",
+            "n60-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسم فاعل اور مفعول",
+          "lessonIds": [
+            "n56",
+            "n57"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n56-concept",
+            "n56-word-1",
+            "n56-word-2",
+            "n56-word-3",
+            "n56-word-4",
+            "n56-repair",
+            "n56-meaning-1",
+            "n56-meaning-2",
+            "n56-meaning-3",
+            "n56-meaning-4",
+            "n56-apply",
+            "n57-concept",
+            "n57-word-1",
+            "n57-word-2",
+            "n57-word-3",
+            "n57-repair",
+            "n57-meaning-1",
+            "n57-meaning-2",
+            "n57-meaning-3",
+            "n57-apply"
+          ]
+        },
+        {
+          "sourceTopic": "صفت مشبہ",
+          "lessonIds": [
+            "n58"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n58-concept",
+            "n58-word-1",
+            "n58-word-2",
+            "n58-word-3",
+            "n58-repair",
+            "n58-meaning-1",
+            "n58-meaning-2",
+            "n58-meaning-3",
+            "n58-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسم تفضیل",
+          "lessonIds": [
+            "n60"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n60-concept",
+            "n60-word-1",
+            "n60-word-2",
+            "n60-word-3",
+            "n60-word-4",
+            "n60-repair",
+            "n60-meaning-1",
+            "n60-meaning-2",
+            "n60-meaning-3",
+            "n60-meaning-4",
+            "n60-apply"
+          ]
+        },
+        {
+          "sourceTopic": "جملوں کی اقسام",
+          "lessonIds": [
+            "n01",
+            "n12",
+            "n63",
+            "n64"
+          ],
+          "sectionCount": 8,
+          "practiceIds": [
+            "n01-concept",
+            "n01-word-1",
+            "n01-word-2",
+            "n01-repair",
+            "n01-meaning-1",
+            "n01-meaning-2",
+            "n01-apply",
+            "n12-concept",
+            "n12-word-1",
+            "n12-word-2",
+            "n12-repair",
+            "n12-meaning-1",
+            "n12-meaning-2",
+            "n12-apply",
+            "n63-concept",
+            "n63-word-1",
+            "n63-word-2",
+            "n63-word-3",
+            "n63-repair",
+            "n63-meaning-1",
+            "n63-meaning-2",
+            "n63-meaning-3",
+            "n63-apply",
+            "n64-concept",
+            "n64-word-1",
+            "n64-word-2",
+            "n64-word-3",
+            "n64-repair",
+            "n64-meaning-1",
+            "n64-meaning-2",
+            "n64-meaning-3",
+            "n64-apply"
+          ]
+        },
+        {
+          "sourceTopic": "جملوں کے محلات",
+          "lessonIds": [
+            "n63",
+            "n64"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n63-concept",
+            "n63-word-1",
+            "n63-word-2",
+            "n63-word-3",
+            "n63-repair",
+            "n63-meaning-1",
+            "n63-meaning-2",
+            "n63-meaning-3",
+            "n63-apply",
+            "n64-concept",
+            "n64-word-1",
+            "n64-word-2",
+            "n64-word-3",
+            "n64-repair",
+            "n64-meaning-1",
+            "n64-meaning-2",
+            "n64-meaning-3",
+            "n64-apply"
+          ]
+        },
+        {
+          "sourceTopic": "قسم اور جواب قسم",
+          "lessonIds": [
+            "n53"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n53-concept",
+            "n53-word-1",
+            "n53-word-2",
+            "n53-word-3",
+            "n53-repair",
+            "n53-meaning-1",
+            "n53-meaning-2",
+            "n53-meaning-3",
+            "n53-apply"
+          ]
+        },
+        {
+          "sourceTopic": "حروف عامله و غیر عامله",
+          "lessonIds": [
+            "n26",
+            "n27",
+            "n31",
+            "n32",
+            "n52",
+            "n61",
+            "n62"
+          ],
+          "sectionCount": 16,
+          "practiceIds": [
+            "n26-concept",
+            "n26-word-1",
+            "n26-word-2",
+            "n26-word-3",
+            "n26-repair",
+            "n26-meaning-1",
+            "n26-meaning-2",
+            "n26-meaning-3",
+            "n26-apply",
+            "n27-concept",
+            "n27-word-1",
+            "n27-word-2",
+            "n27-word-3",
+            "n27-repair",
+            "n27-meaning-1",
+            "n27-meaning-2",
+            "n27-meaning-3",
+            "n27-apply",
+            "n31-concept",
+            "n31-word-1",
+            "n31-word-2",
+            "n31-word-3",
+            "n31-repair",
+            "n31-meaning-1",
+            "n31-meaning-2",
+            "n31-meaning-3",
+            "n31-apply",
+            "n32-concept",
+            "n32-word-1",
+            "n32-word-2",
+            "n32-word-3",
+            "n32-repair",
+            "n32-meaning-1",
+            "n32-meaning-2",
+            "n32-meaning-3",
+            "n32-apply",
+            "n52-concept",
+            "n52-word-1",
+            "n52-word-2",
+            "n52-word-3",
+            "n52-word-4",
+            "n52-repair",
+            "n52-meaning-1",
+            "n52-meaning-2",
+            "n52-meaning-3",
+            "n52-meaning-4",
+            "n52-apply",
+            "n61-concept",
+            "n61-word-1",
+            "n61-word-2",
+            "n61-word-3",
+            "n61-word-4",
+            "n61-repair",
+            "n61-meaning-1",
+            "n61-meaning-2",
+            "n61-meaning-3",
+            "n61-meaning-4",
+            "n61-apply",
+            "n62-concept",
+            "n62-word-1",
+            "n62-word-2",
+            "n62-word-3",
+            "n62-repair",
+            "n62-meaning-1",
+            "n62-meaning-2",
+            "n62-meaning-3",
+            "n62-apply"
+          ]
+        },
+        {
+          "sourceTopic": "جملوں کی ترکیب",
+          "lessonIds": [
+            "n65",
+            "n67",
+            "n68"
+          ],
+          "sectionCount": 5,
+          "practiceIds": [
+            "n65-concept",
+            "n65-word-1",
+            "n65-word-2",
+            "n65-word-3",
+            "n65-word-4",
+            "n65-repair",
+            "n65-meaning-1",
+            "n65-meaning-2",
+            "n65-meaning-3",
+            "n65-meaning-4",
+            "n65-apply",
+            "n67-concept",
+            "n67-word-1",
+            "n67-word-2",
+            "n67-word-3",
+            "n67-repair",
+            "n67-meaning-1",
+            "n67-meaning-2",
+            "n67-meaning-3",
+            "n67-apply",
+            "n68-concept",
+            "n68-word-1",
+            "n68-word-2",
+            "n68-word-3",
+            "n68-word-4",
+            "n68-word-5",
+            "n68-word-6",
+            "n68-word-7",
+            "n68-repair",
+            "n68-meaning-1",
+            "n68-meaning-2",
+            "n68-meaning-3",
+            "n68-meaning-4",
+            "n68-meaning-5",
+            "n68-meaning-6",
+            "n68-meaning-7",
+            "n68-apply"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "النحو الميسر",
+      "basis": "PDF فہرست 220–225؛ غیر درسی اعلانات/جواب نامے مستقل موضوع نہیں",
+      "topics": [
+        {
+          "sourceTopic": "جملے کے ارکان",
+          "lessonIds": [
+            "n01",
+            "n08"
+          ],
+          "sectionCount": 6,
+          "practiceIds": [
+            "n01-concept",
+            "n01-word-1",
+            "n01-word-2",
+            "n01-repair",
+            "n01-meaning-1",
+            "n01-meaning-2",
+            "n01-apply",
+            "n08-concept",
+            "n08-word-1",
+            "n08-word-2",
+            "n08-word-3",
+            "n08-repair",
+            "n08-meaning-1",
+            "n08-meaning-2",
+            "n08-meaning-3",
+            "n08-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسم، فعل، حرف",
+          "lessonIds": [
+            "n02"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n02-concept",
+            "n02-word-1",
+            "n02-word-2",
+            "n02-word-3",
+            "n02-word-4",
+            "n02-repair",
+            "n02-meaning-1",
+            "n02-meaning-2",
+            "n02-meaning-3",
+            "n02-meaning-4",
+            "n02-apply"
+          ]
+        },
+        {
+          "sourceTopic": "جملہ اسمیہ",
+          "lessonIds": [
+            "n11",
+            "n12"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n11-concept",
+            "n11-word-1",
+            "n11-word-2",
+            "n11-repair",
+            "n11-meaning-1",
+            "n11-meaning-2",
+            "n11-apply",
+            "n12-concept",
+            "n12-word-1",
+            "n12-word-2",
+            "n12-repair",
+            "n12-meaning-1",
+            "n12-meaning-2",
+            "n12-apply"
+          ]
+        },
+        {
+          "sourceTopic": "جملہ فعلیہ",
+          "lessonIds": [
+            "n20",
+            "n21"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n20-concept",
+            "n20-word-1",
+            "n20-word-2",
+            "n20-word-3",
+            "n20-repair",
+            "n20-meaning-1",
+            "n20-meaning-2",
+            "n20-meaning-3",
+            "n20-apply",
+            "n21-concept",
+            "n21-word-1",
+            "n21-word-2",
+            "n21-repair",
+            "n21-meaning-1",
+            "n21-meaning-2",
+            "n21-apply"
+          ]
+        },
+        {
+          "sourceTopic": "فعل اور انواع",
+          "lessonIds": [
+            "n24",
+            "n69",
+            "n70"
+          ],
+          "sectionCount": 7,
+          "practiceIds": [
+            "n24-concept",
+            "n24-word-1",
+            "n24-word-2",
+            "n24-word-3",
+            "n24-word-4",
+            "n24-repair",
+            "n24-meaning-1",
+            "n24-meaning-2",
+            "n24-meaning-3",
+            "n24-meaning-4",
+            "n24-apply",
+            "n69-concept",
+            "n69-repair",
+            "n69-word-1",
+            "n69-word-2",
+            "n69-word-3",
+            "n70-concept",
+            "n70-repair",
+            "n70-word-1",
+            "n70-word-2"
+          ]
+        },
+        {
+          "sourceTopic": "اسم مفرد، مثنیٰ، جمع",
+          "lessonIds": [
+            "n04",
+            "n15",
+            "n16"
+          ],
+          "sectionCount": 6,
+          "practiceIds": [
+            "n04-concept",
+            "n04-word-1",
+            "n04-word-2",
+            "n04-repair",
+            "n04-meaning-1",
+            "n04-meaning-2",
+            "n04-apply",
+            "n15-concept",
+            "n15-word-1",
+            "n15-word-2",
+            "n15-repair",
+            "n15-meaning-1",
+            "n15-meaning-2",
+            "n15-apply",
+            "n16-concept",
+            "n16-word-1",
+            "n16-word-2",
+            "n16-repair",
+            "n16-meaning-1",
+            "n16-meaning-2",
+            "n16-apply"
+          ]
+        },
+        {
+          "sourceTopic": "جمع کی اقسام",
+          "lessonIds": [
+            "n04",
+            "n15",
+            "n16"
+          ],
+          "sectionCount": 6,
+          "practiceIds": [
+            "n04-concept",
+            "n04-word-1",
+            "n04-word-2",
+            "n04-repair",
+            "n04-meaning-1",
+            "n04-meaning-2",
+            "n04-apply",
+            "n15-concept",
+            "n15-word-1",
+            "n15-word-2",
+            "n15-repair",
+            "n15-meaning-1",
+            "n15-meaning-2",
+            "n15-apply",
+            "n16-concept",
+            "n16-word-1",
+            "n16-word-2",
+            "n16-repair",
+            "n16-meaning-1",
+            "n16-meaning-2",
+            "n16-apply"
+          ]
+        },
+        {
+          "sourceTopic": "فاعل کی رفع",
+          "lessonIds": [
+            "n20"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n20-concept",
+            "n20-word-1",
+            "n20-word-2",
+            "n20-word-3",
+            "n20-repair",
+            "n20-meaning-1",
+            "n20-meaning-2",
+            "n20-meaning-3",
+            "n20-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مفعول کی نصب",
+          "lessonIds": [
+            "n22"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n22-concept",
+            "n22-word-1",
+            "n22-word-2",
+            "n22-word-3",
+            "n22-repair",
+            "n22-meaning-1",
+            "n22-meaning-2",
+            "n22-meaning-3",
+            "n22-apply"
+          ]
+        },
+        {
+          "sourceTopic": "حرف جر",
+          "lessonIds": [
+            "n61"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n61-concept",
+            "n61-word-1",
+            "n61-word-2",
+            "n61-word-3",
+            "n61-word-4",
+            "n61-repair",
+            "n61-meaning-1",
+            "n61-meaning-2",
+            "n61-meaning-3",
+            "n61-meaning-4",
+            "n61-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اضافت",
+          "lessonIds": [
+            "n09"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n09-concept",
+            "n09-word-1",
+            "n09-word-2",
+            "n09-word-3",
+            "n09-repair",
+            "n09-meaning-1",
+            "n09-meaning-2",
+            "n09-meaning-3",
+            "n09-apply"
+          ]
+        },
+        {
+          "sourceTopic": "استفہام",
+          "lessonIds": [
+            "n51",
+            "n74"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n51-concept",
+            "n51-word-1",
+            "n51-word-2",
+            "n51-word-3",
+            "n51-repair",
+            "n51-meaning-1",
+            "n51-meaning-2",
+            "n51-meaning-3",
+            "n51-apply",
+            "n74-concept",
+            "n74-repair",
+            "n74-word-1",
+            "n74-word-2",
+            "n74-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "امر، نہی، نفی",
+          "lessonIds": [
+            "n27",
+            "n52",
+            "n69"
+          ],
+          "sectionCount": 6,
+          "practiceIds": [
+            "n27-concept",
+            "n27-word-1",
+            "n27-word-2",
+            "n27-word-3",
+            "n27-repair",
+            "n27-meaning-1",
+            "n27-meaning-2",
+            "n27-meaning-3",
+            "n27-apply",
+            "n52-concept",
+            "n52-word-1",
+            "n52-word-2",
+            "n52-word-3",
+            "n52-word-4",
+            "n52-repair",
+            "n52-meaning-1",
+            "n52-meaning-2",
+            "n52-meaning-3",
+            "n52-meaning-4",
+            "n52-apply",
+            "n69-concept",
+            "n69-repair",
+            "n69-word-1",
+            "n69-word-2",
+            "n69-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "مفعول مطلق",
+          "lessonIds": [
+            "n37"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n37-concept",
+            "n37-word-1",
+            "n37-word-2",
+            "n37-word-3",
+            "n37-word-4",
+            "n37-repair",
+            "n37-meaning-1",
+            "n37-meaning-2",
+            "n37-meaning-3",
+            "n37-meaning-4",
+            "n37-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مفعول لہ",
+          "lessonIds": [
+            "n38"
+          ],
+          "sectionCount": 1,
+          "practiceIds": [
+            "n38-concept",
+            "n38-word-1",
+            "n38-word-2",
+            "n38-repair",
+            "n38-meaning-1",
+            "n38-meaning-2",
+            "n38-apply"
+          ]
+        },
+        {
+          "sourceTopic": "ظرف مکان و زمان",
+          "lessonIds": [
+            "n39"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n39-concept",
+            "n39-word-1",
+            "n39-word-2",
+            "n39-word-3",
+            "n39-word-4",
+            "n39-repair",
+            "n39-meaning-1",
+            "n39-meaning-2",
+            "n39-meaning-3",
+            "n39-meaning-4",
+            "n39-apply"
+          ]
+        },
+        {
+          "sourceTopic": "حال مفرد",
+          "lessonIds": [
+            "n35"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n35-concept",
+            "n35-word-1",
+            "n35-word-2",
+            "n35-word-3",
+            "n35-repair",
+            "n35-meaning-1",
+            "n35-meaning-2",
+            "n35-meaning-3",
+            "n35-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مثنیٰ کا اعراب",
+          "lessonIds": [
+            "n15"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n15-concept",
+            "n15-word-1",
+            "n15-word-2",
+            "n15-repair",
+            "n15-meaning-1",
+            "n15-meaning-2",
+            "n15-apply"
+          ]
+        },
+        {
+          "sourceTopic": "جمع مذکر سالم",
+          "lessonIds": [
+            "n15"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n15-concept",
+            "n15-word-1",
+            "n15-word-2",
+            "n15-repair",
+            "n15-meaning-1",
+            "n15-meaning-2",
+            "n15-apply"
+          ]
+        },
+        {
+          "sourceTopic": "جمع مؤنث سالم",
+          "lessonIds": [
+            "n16"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n16-concept",
+            "n16-word-1",
+            "n16-word-2",
+            "n16-repair",
+            "n16-meaning-1",
+            "n16-meaning-2",
+            "n16-apply"
+          ]
+        },
+        {
+          "sourceTopic": "خبر کی اقسام",
+          "lessonIds": [
+            "n12"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n12-concept",
+            "n12-word-1",
+            "n12-word-2",
+            "n12-repair",
+            "n12-meaning-1",
+            "n12-meaning-2",
+            "n12-apply"
+          ]
+        },
+        {
+          "sourceTopic": "كان وأخواتها",
+          "lessonIds": [
+            "n29",
+            "n30"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n29-concept",
+            "n29-word-1",
+            "n29-word-2",
+            "n29-word-3",
+            "n29-repair",
+            "n29-meaning-1",
+            "n29-meaning-2",
+            "n29-meaning-3",
+            "n29-apply",
+            "n30-concept",
+            "n30-word-1",
+            "n30-word-2",
+            "n30-word-3",
+            "n30-repair",
+            "n30-meaning-1",
+            "n30-meaning-2",
+            "n30-meaning-3",
+            "n30-apply"
+          ]
+        },
+        {
+          "sourceTopic": "إن وأخواتها",
+          "lessonIds": [
+            "n31",
+            "n32"
+          ],
+          "sectionCount": 6,
+          "practiceIds": [
+            "n31-concept",
+            "n31-word-1",
+            "n31-word-2",
+            "n31-word-3",
+            "n31-repair",
+            "n31-meaning-1",
+            "n31-meaning-2",
+            "n31-meaning-3",
+            "n31-apply",
+            "n32-concept",
+            "n32-word-1",
+            "n32-word-2",
+            "n32-word-3",
+            "n32-repair",
+            "n32-meaning-1",
+            "n32-meaning-2",
+            "n32-meaning-3",
+            "n32-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اعراب و بنا",
+          "lessonIds": [
+            "n13",
+            "n14"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n13-concept",
+            "n13-word-1",
+            "n13-word-2",
+            "n13-repair",
+            "n13-meaning-1",
+            "n13-meaning-2",
+            "n13-apply",
+            "n14-concept",
+            "n14-word-1",
+            "n14-word-2",
+            "n14-repair",
+            "n14-meaning-1",
+            "n14-meaning-2",
+            "n14-apply"
+          ]
+        },
+        {
+          "sourceTopic": "ضمائر",
+          "lessonIds": [
+            "n05"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n05-concept",
+            "n05-word-1",
+            "n05-word-2",
+            "n05-repair",
+            "n05-meaning-1",
+            "n05-meaning-2",
+            "n05-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اشارہ",
+          "lessonIds": [
+            "n06"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n06-concept",
+            "n06-word-1",
+            "n06-word-2",
+            "n06-repair",
+            "n06-meaning-1",
+            "n06-meaning-2",
+            "n06-apply"
+          ]
+        },
+        {
+          "sourceTopic": "موصول",
+          "lessonIds": [
+            "n07"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n07-concept",
+            "n07-word-1",
+            "n07-word-2",
+            "n07-word-3",
+            "n07-repair",
+            "n07-meaning-1",
+            "n07-meaning-2",
+            "n07-meaning-3",
+            "n07-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسماء شرط",
+          "lessonIds": [
+            "n28",
+            "n75"
+          ],
+          "sectionCount": 5,
+          "practiceIds": [
+            "n28-concept",
+            "n28-word-1",
+            "n28-word-2",
+            "n28-word-3",
+            "n28-repair",
+            "n28-meaning-1",
+            "n28-meaning-2",
+            "n28-meaning-3",
+            "n28-apply",
+            "n75-concept",
+            "n75-repair",
+            "n75-word-1",
+            "n75-word-2",
+            "n75-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "بعض ظروف",
+          "lessonIds": [
+            "n39"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n39-concept",
+            "n39-word-1",
+            "n39-word-2",
+            "n39-word-3",
+            "n39-word-4",
+            "n39-repair",
+            "n39-meaning-1",
+            "n39-meaning-2",
+            "n39-meaning-3",
+            "n39-meaning-4",
+            "n39-apply"
+          ]
+        },
+        {
+          "sourceTopic": "فعل کی بنا اور اعراب",
+          "lessonIds": [
+            "n25",
+            "n27",
+            "n69"
+          ],
+          "sectionCount": 6,
+          "practiceIds": [
+            "n25-concept",
+            "n25-word-1",
+            "n25-word-2",
+            "n25-repair",
+            "n25-meaning-1",
+            "n25-meaning-2",
+            "n25-apply",
+            "n27-concept",
+            "n27-word-1",
+            "n27-word-2",
+            "n27-word-3",
+            "n27-repair",
+            "n27-meaning-1",
+            "n27-meaning-2",
+            "n27-meaning-3",
+            "n27-apply",
+            "n69-concept",
+            "n69-repair",
+            "n69-word-1",
+            "n69-word-2",
+            "n69-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "معرفہ و نکرہ",
+          "lessonIds": [
+            "n03"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n03-concept",
+            "n03-word-1",
+            "n03-word-2",
+            "n03-repair",
+            "n03-meaning-1",
+            "n03-meaning-2",
+            "n03-apply"
+          ]
+        },
+        {
+          "sourceTopic": "علم",
+          "lessonIds": [
+            "n03",
+            "n18"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n03-concept",
+            "n03-word-1",
+            "n03-word-2",
+            "n03-repair",
+            "n03-meaning-1",
+            "n03-meaning-2",
+            "n03-apply",
+            "n18-concept",
+            "n18-word-1",
+            "n18-word-2",
+            "n18-repair",
+            "n18-meaning-1",
+            "n18-meaning-2",
+            "n18-apply"
+          ]
+        },
+        {
+          "sourceTopic": "صحیح و معتل",
+          "lessonIds": [
+            "n70"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n70-concept",
+            "n70-repair",
+            "n70-word-1",
+            "n70-word-2"
+          ]
+        },
+        {
+          "sourceTopic": "تانیث فعل مع فاعل",
+          "lessonIds": [
+            "n21"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n21-concept",
+            "n21-word-1",
+            "n21-word-2",
+            "n21-repair",
+            "n21-meaning-1",
+            "n21-meaning-2",
+            "n21-apply"
+          ]
+        },
+        {
+          "sourceTopic": "نائب فاعل",
+          "lessonIds": [
+            "n23"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n23-concept",
+            "n23-word-1",
+            "n23-word-2",
+            "n23-repair",
+            "n23-meaning-1",
+            "n23-meaning-2",
+            "n23-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مجرد و مزید",
+          "lessonIds": [
+            "n70"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n70-concept",
+            "n70-repair",
+            "n70-word-1",
+            "n70-word-2"
+          ]
+        },
+        {
+          "sourceTopic": "میزان صرفی",
+          "lessonIds": [
+            "n70"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n70-concept",
+            "n70-repair",
+            "n70-word-1",
+            "n70-word-2"
+          ]
+        },
+        {
+          "sourceTopic": "معجم میں تلاش",
+          "lessonIds": [
+            "n73"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n73-concept",
+            "n73-repair",
+            "n73-word-1",
+            "n73-word-2"
+          ]
+        },
+        {
+          "sourceTopic": "لازم و متعدی",
+          "lessonIds": [
+            "n24"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n24-concept",
+            "n24-word-1",
+            "n24-word-2",
+            "n24-word-3",
+            "n24-word-4",
+            "n24-repair",
+            "n24-meaning-1",
+            "n24-meaning-2",
+            "n24-meaning-3",
+            "n24-meaning-4",
+            "n24-apply"
+          ]
+        },
+        {
+          "sourceTopic": "دو مفعول: اصل مبتدا و خبر",
+          "lessonIds": [
+            "n34"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n34-concept",
+            "n34-word-1",
+            "n34-word-2",
+            "n34-word-3",
+            "n34-repair",
+            "n34-meaning-1",
+            "n34-meaning-2",
+            "n34-meaning-3",
+            "n34-apply"
+          ]
+        },
+        {
+          "sourceTopic": "دو مفعول: غیر اسنادی",
+          "lessonIds": [
+            "n24"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n24-concept",
+            "n24-word-1",
+            "n24-word-2",
+            "n24-word-3",
+            "n24-word-4",
+            "n24-repair",
+            "n24-meaning-1",
+            "n24-meaning-2",
+            "n24-meaning-3",
+            "n24-meaning-4",
+            "n24-apply"
+          ]
+        },
+        {
+          "sourceTopic": "حال جملہ و شبه جملہ",
+          "lessonIds": [
+            "n35"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n35-concept",
+            "n35-word-1",
+            "n35-word-2",
+            "n35-word-3",
+            "n35-repair",
+            "n35-meaning-1",
+            "n35-meaning-2",
+            "n35-meaning-3",
+            "n35-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسماء خمسہ",
+          "lessonIds": [
+            "n17"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n17-concept",
+            "n17-word-1",
+            "n17-word-2",
+            "n17-repair",
+            "n17-meaning-1",
+            "n17-meaning-2",
+            "n17-apply"
+          ]
+        },
+        {
+          "sourceTopic": "تعجب",
+          "lessonIds": [
+            "n54"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n54-concept",
+            "n54-word-1",
+            "n54-word-2",
+            "n54-word-3",
+            "n54-repair",
+            "n54-meaning-1",
+            "n54-meaning-2",
+            "n54-meaning-3",
+            "n54-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مدح و ذم",
+          "lessonIds": [
+            "n55"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n55-concept",
+            "n55-word-1",
+            "n55-word-2",
+            "n55-word-3",
+            "n55-repair",
+            "n55-meaning-1",
+            "n55-meaning-2",
+            "n55-meaning-3",
+            "n55-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اغراء و تحذیر",
+          "lessonIds": [
+            "n43"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n43-concept",
+            "n43-word-1",
+            "n43-word-2",
+            "n43-repair",
+            "n43-meaning-1",
+            "n43-meaning-2",
+            "n43-apply"
+          ]
+        },
+        {
+          "sourceTopic": "نداء",
+          "lessonIds": [
+            "n42"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n42-concept",
+            "n42-word-1",
+            "n42-word-2",
+            "n42-word-3",
+            "n42-repair",
+            "n42-meaning-1",
+            "n42-meaning-2",
+            "n42-meaning-3",
+            "n42-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اختصاص",
+          "lessonIds": [
+            "n44"
+          ],
+          "sectionCount": 1,
+          "practiceIds": [
+            "n44-concept",
+            "n44-word-1",
+            "n44-word-2",
+            "n44-word-3",
+            "n44-word-4",
+            "n44-repair",
+            "n44-meaning-1",
+            "n44-meaning-2",
+            "n44-meaning-3",
+            "n44-meaning-4",
+            "n44-apply"
+          ]
+        },
+        {
+          "sourceTopic": "استثناء",
+          "lessonIds": [
+            "n41"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n41-concept",
+            "n41-word-1",
+            "n41-word-2",
+            "n41-word-3",
+            "n41-word-4",
+            "n41-repair",
+            "n41-meaning-1",
+            "n41-meaning-2",
+            "n41-meaning-3",
+            "n41-meaning-4",
+            "n41-apply"
+          ]
+        },
+        {
+          "sourceTopic": "شرط جازم و غیر جازم",
+          "lessonIds": [
+            "n28",
+            "n75"
+          ],
+          "sectionCount": 5,
+          "practiceIds": [
+            "n28-concept",
+            "n28-word-1",
+            "n28-word-2",
+            "n28-word-3",
+            "n28-repair",
+            "n28-meaning-1",
+            "n28-meaning-2",
+            "n28-meaning-3",
+            "n28-apply",
+            "n75-concept",
+            "n75-repair",
+            "n75-word-1",
+            "n75-word-2",
+            "n75-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "تمییز",
+          "lessonIds": [
+            "n36"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n36-concept",
+            "n36-word-1",
+            "n36-word-2",
+            "n36-word-3",
+            "n36-repair",
+            "n36-meaning-1",
+            "n36-meaning-2",
+            "n36-meaning-3",
+            "n36-apply"
+          ]
+        },
+        {
+          "sourceTopic": "عدد",
+          "lessonIds": [
+            "n50"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n50-concept",
+            "n50-word-1",
+            "n50-word-2",
+            "n50-word-3",
+            "n50-repair",
+            "n50-meaning-1",
+            "n50-meaning-2",
+            "n50-meaning-3",
+            "n50-apply"
+          ]
+        },
+        {
+          "sourceTopic": "کم استفہامیہ و خبریہ",
+          "lessonIds": [
+            "n74"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n74-concept",
+            "n74-repair",
+            "n74-word-1",
+            "n74-word-2",
+            "n74-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "نعت",
+          "lessonIds": [
+            "n10",
+            "n46"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n10-concept",
+            "n10-word-1",
+            "n10-word-2",
+            "n10-word-3",
+            "n10-repair",
+            "n10-meaning-1",
+            "n10-meaning-2",
+            "n10-meaning-3",
+            "n10-apply",
+            "n46-concept",
+            "n46-word-1",
+            "n46-word-2",
+            "n46-word-3",
+            "n46-word-4",
+            "n46-repair",
+            "n46-meaning-1",
+            "n46-meaning-2",
+            "n46-meaning-3",
+            "n46-meaning-4",
+            "n46-apply"
+          ]
+        },
+        {
+          "sourceTopic": "تاکید",
+          "lessonIds": [
+            "n48"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n48-concept",
+            "n48-word-1",
+            "n48-word-2",
+            "n48-word-3",
+            "n48-repair",
+            "n48-meaning-1",
+            "n48-meaning-2",
+            "n48-meaning-3",
+            "n48-apply"
+          ]
+        },
+        {
+          "sourceTopic": "عطف",
+          "lessonIds": [
+            "n47"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n47-concept",
+            "n47-word-1",
+            "n47-word-2",
+            "n47-word-3",
+            "n47-word-4",
+            "n47-repair",
+            "n47-meaning-1",
+            "n47-meaning-2",
+            "n47-meaning-3",
+            "n47-meaning-4",
+            "n47-apply"
+          ]
+        },
+        {
+          "sourceTopic": "بدل",
+          "lessonIds": [
+            "n49"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n49-concept",
+            "n49-word-1",
+            "n49-word-2",
+            "n49-word-3",
+            "n49-repair",
+            "n49-meaning-1",
+            "n49-meaning-2",
+            "n49-meaning-3",
+            "n49-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مصادر ثلاثی، رباعی، خماسی، سداسی",
+          "lessonIds": [
+            "n71"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n71-concept",
+            "n71-repair",
+            "n71-word-1",
+            "n71-word-2"
+          ]
+        },
+        {
+          "sourceTopic": "اسم فاعل",
+          "lessonIds": [
+            "n56"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n56-concept",
+            "n56-word-1",
+            "n56-word-2",
+            "n56-word-3",
+            "n56-word-4",
+            "n56-repair",
+            "n56-meaning-1",
+            "n56-meaning-2",
+            "n56-meaning-3",
+            "n56-meaning-4",
+            "n56-apply"
+          ]
+        },
+        {
+          "sourceTopic": "صیغۂ مبالغہ",
+          "lessonIds": [
+            "n58"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n58-concept",
+            "n58-word-1",
+            "n58-word-2",
+            "n58-word-3",
+            "n58-repair",
+            "n58-meaning-1",
+            "n58-meaning-2",
+            "n58-meaning-3",
+            "n58-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسم مفعول",
+          "lessonIds": [
+            "n57"
+          ],
+          "sectionCount": 1,
+          "practiceIds": [
+            "n57-concept",
+            "n57-word-1",
+            "n57-word-2",
+            "n57-word-3",
+            "n57-repair",
+            "n57-meaning-1",
+            "n57-meaning-2",
+            "n57-meaning-3",
+            "n57-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسم تفضیل",
+          "lessonIds": [
+            "n60"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n60-concept",
+            "n60-word-1",
+            "n60-word-2",
+            "n60-word-3",
+            "n60-word-4",
+            "n60-repair",
+            "n60-meaning-1",
+            "n60-meaning-2",
+            "n60-meaning-3",
+            "n60-meaning-4",
+            "n60-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسم آلہ",
+          "lessonIds": [
+            "n72"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n72-concept",
+            "n72-repair",
+            "n72-word-1",
+            "n72-word-2",
+            "n72-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "اسم زمان و مکان",
+          "lessonIds": [
+            "n72"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n72-concept",
+            "n72-repair",
+            "n72-word-1",
+            "n72-word-2",
+            "n72-word-3"
+          ]
+        },
+        {
+          "sourceTopic": "ہمزہ وصل و قطع",
+          "lessonIds": [
+            "n73"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n73-concept",
+            "n73-repair",
+            "n73-word-1",
+            "n73-word-2"
+          ]
+        },
+        {
+          "sourceTopic": "جامع اعرابی نمونے",
+          "lessonIds": [
+            "n68"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n68-concept",
+            "n68-word-1",
+            "n68-word-2",
+            "n68-word-3",
+            "n68-word-4",
+            "n68-word-5",
+            "n68-word-6",
+            "n68-word-7",
+            "n68-repair",
+            "n68-meaning-1",
+            "n68-meaning-2",
+            "n68-meaning-3",
+            "n68-meaning-4",
+            "n68-meaning-5",
+            "n68-meaning-6",
+            "n68-meaning-7",
+            "n68-apply"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "المنهاج في القواعد والإعراب",
+      "basis": "PDF فہرست 311–315؛ دوسری قسم کا مرجع tools.js میں گروہی استعمالات کے ساتھ",
+      "topics": [
+        {
+          "sourceTopic": "مبتدا و خبر",
+          "lessonIds": [
+            "n11",
+            "n12",
+            "n67"
+          ],
+          "sectionCount": 6,
+          "practiceIds": [
+            "n11-concept",
+            "n11-word-1",
+            "n11-word-2",
+            "n11-repair",
+            "n11-meaning-1",
+            "n11-meaning-2",
+            "n11-apply",
+            "n12-concept",
+            "n12-word-1",
+            "n12-word-2",
+            "n12-repair",
+            "n12-meaning-1",
+            "n12-meaning-2",
+            "n12-apply",
+            "n67-concept",
+            "n67-word-1",
+            "n67-word-2",
+            "n67-word-3",
+            "n67-repair",
+            "n67-meaning-1",
+            "n67-meaning-2",
+            "n67-meaning-3",
+            "n67-apply"
+          ]
+        },
+        {
+          "sourceTopic": "كان وأخواتها",
+          "lessonIds": [
+            "n29",
+            "n30"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n29-concept",
+            "n29-word-1",
+            "n29-word-2",
+            "n29-word-3",
+            "n29-repair",
+            "n29-meaning-1",
+            "n29-meaning-2",
+            "n29-meaning-3",
+            "n29-apply",
+            "n30-concept",
+            "n30-word-1",
+            "n30-word-2",
+            "n30-word-3",
+            "n30-repair",
+            "n30-meaning-1",
+            "n30-meaning-2",
+            "n30-meaning-3",
+            "n30-apply"
+          ]
+        },
+        {
+          "sourceTopic": "فعل و فاعل",
+          "lessonIds": [
+            "n20",
+            "n21"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n20-concept",
+            "n20-word-1",
+            "n20-word-2",
+            "n20-word-3",
+            "n20-repair",
+            "n20-meaning-1",
+            "n20-meaning-2",
+            "n20-meaning-3",
+            "n20-apply",
+            "n21-concept",
+            "n21-word-1",
+            "n21-word-2",
+            "n21-repair",
+            "n21-meaning-1",
+            "n21-meaning-2",
+            "n21-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مفعول",
+          "lessonIds": [
+            "n22",
+            "n24",
+            "n35",
+            "n36",
+            "n37",
+            "n38",
+            "n39",
+            "n40"
+          ],
+          "sectionCount": 17,
+          "practiceIds": [
+            "n22-concept",
+            "n22-word-1",
+            "n22-word-2",
+            "n22-word-3",
+            "n22-repair",
+            "n22-meaning-1",
+            "n22-meaning-2",
+            "n22-meaning-3",
+            "n22-apply",
+            "n24-concept",
+            "n24-word-1",
+            "n24-word-2",
+            "n24-word-3",
+            "n24-word-4",
+            "n24-repair",
+            "n24-meaning-1",
+            "n24-meaning-2",
+            "n24-meaning-3",
+            "n24-meaning-4",
+            "n24-apply",
+            "n35-concept",
+            "n35-word-1",
+            "n35-word-2",
+            "n35-word-3",
+            "n35-repair",
+            "n35-meaning-1",
+            "n35-meaning-2",
+            "n35-meaning-3",
+            "n35-apply",
+            "n36-concept",
+            "n36-word-1",
+            "n36-word-2",
+            "n36-word-3",
+            "n36-repair",
+            "n36-meaning-1",
+            "n36-meaning-2",
+            "n36-meaning-3",
+            "n36-apply",
+            "n37-concept",
+            "n37-word-1",
+            "n37-word-2",
+            "n37-word-3",
+            "n37-word-4",
+            "n37-repair",
+            "n37-meaning-1",
+            "n37-meaning-2",
+            "n37-meaning-3",
+            "n37-meaning-4",
+            "n37-apply",
+            "n38-concept",
+            "n38-word-1",
+            "n38-word-2",
+            "n38-repair",
+            "n38-meaning-1",
+            "n38-meaning-2",
+            "n38-apply",
+            "n39-concept",
+            "n39-word-1",
+            "n39-word-2",
+            "n39-word-3",
+            "n39-word-4",
+            "n39-repair",
+            "n39-meaning-1",
+            "n39-meaning-2",
+            "n39-meaning-3",
+            "n39-meaning-4",
+            "n39-apply",
+            "n40-concept",
+            "n40-word-1",
+            "n40-word-2",
+            "n40-word-3",
+            "n40-repair",
+            "n40-meaning-1",
+            "n40-meaning-2",
+            "n40-meaning-3",
+            "n40-apply"
+          ]
+        },
+        {
+          "sourceTopic": "اسماء عاملہ",
+          "lessonIds": [
+            "n56",
+            "n57",
+            "n58",
+            "n59",
+            "n60"
+          ],
+          "sectionCount": 9,
+          "practiceIds": [
+            "n56-concept",
+            "n56-word-1",
+            "n56-word-2",
+            "n56-word-3",
+            "n56-word-4",
+            "n56-repair",
+            "n56-meaning-1",
+            "n56-meaning-2",
+            "n56-meaning-3",
+            "n56-meaning-4",
+            "n56-apply",
+            "n57-concept",
+            "n57-word-1",
+            "n57-word-2",
+            "n57-word-3",
+            "n57-repair",
+            "n57-meaning-1",
+            "n57-meaning-2",
+            "n57-meaning-3",
+            "n57-apply",
+            "n58-concept",
+            "n58-word-1",
+            "n58-word-2",
+            "n58-word-3",
+            "n58-repair",
+            "n58-meaning-1",
+            "n58-meaning-2",
+            "n58-meaning-3",
+            "n58-apply",
+            "n59-concept",
+            "n59-word-1",
+            "n59-word-2",
+            "n59-word-3",
+            "n59-word-4",
+            "n59-repair",
+            "n59-meaning-1",
+            "n59-meaning-2",
+            "n59-meaning-3",
+            "n59-meaning-4",
+            "n59-apply",
+            "n60-concept",
+            "n60-word-1",
+            "n60-word-2",
+            "n60-word-3",
+            "n60-word-4",
+            "n60-repair",
+            "n60-meaning-1",
+            "n60-meaning-2",
+            "n60-meaning-3",
+            "n60-meaning-4",
+            "n60-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مدح و ذم اور تعجب",
+          "lessonIds": [
+            "n54",
+            "n55"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n54-concept",
+            "n54-word-1",
+            "n54-word-2",
+            "n54-word-3",
+            "n54-repair",
+            "n54-meaning-1",
+            "n54-meaning-2",
+            "n54-meaning-3",
+            "n54-apply",
+            "n55-concept",
+            "n55-word-1",
+            "n55-word-2",
+            "n55-word-3",
+            "n55-repair",
+            "n55-meaning-1",
+            "n55-meaning-2",
+            "n55-meaning-3",
+            "n55-apply"
+          ]
+        },
+        {
+          "sourceTopic": "إن وأخواتها",
+          "lessonIds": [
+            "n31",
+            "n32",
+            "n33"
+          ],
+          "sectionCount": 8,
+          "practiceIds": [
+            "n31-concept",
+            "n31-word-1",
+            "n31-word-2",
+            "n31-word-3",
+            "n31-repair",
+            "n31-meaning-1",
+            "n31-meaning-2",
+            "n31-meaning-3",
+            "n31-apply",
+            "n32-concept",
+            "n32-word-1",
+            "n32-word-2",
+            "n32-word-3",
+            "n32-repair",
+            "n32-meaning-1",
+            "n32-meaning-2",
+            "n32-meaning-3",
+            "n32-apply",
+            "n33-concept",
+            "n33-word-1",
+            "n33-word-2",
+            "n33-word-3",
+            "n33-word-4",
+            "n33-repair",
+            "n33-meaning-1",
+            "n33-meaning-2",
+            "n33-meaning-3",
+            "n33-meaning-4",
+            "n33-apply"
+          ]
+        },
+        {
+          "sourceTopic": "نائب فاعل",
+          "lessonIds": [
+            "n23"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n23-concept",
+            "n23-word-1",
+            "n23-word-2",
+            "n23-repair",
+            "n23-meaning-1",
+            "n23-meaning-2",
+            "n23-apply"
+          ]
+        },
+        {
+          "sourceTopic": "نصب مضارع",
+          "lessonIds": [
+            "n26"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n26-concept",
+            "n26-word-1",
+            "n26-word-2",
+            "n26-word-3",
+            "n26-repair",
+            "n26-meaning-1",
+            "n26-meaning-2",
+            "n26-meaning-3",
+            "n26-apply"
+          ]
+        },
+        {
+          "sourceTopic": "جزم مضارع",
+          "lessonIds": [
+            "n27",
+            "n28"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n27-concept",
+            "n27-word-1",
+            "n27-word-2",
+            "n27-word-3",
+            "n27-repair",
+            "n27-meaning-1",
+            "n27-meaning-2",
+            "n27-meaning-3",
+            "n27-apply",
+            "n28-concept",
+            "n28-word-1",
+            "n28-word-2",
+            "n28-word-3",
+            "n28-repair",
+            "n28-meaning-1",
+            "n28-meaning-2",
+            "n28-meaning-3",
+            "n28-apply"
+          ]
+        },
+        {
+          "sourceTopic": "حال",
+          "lessonIds": [
+            "n35"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n35-concept",
+            "n35-word-1",
+            "n35-word-2",
+            "n35-word-3",
+            "n35-repair",
+            "n35-meaning-1",
+            "n35-meaning-2",
+            "n35-meaning-3",
+            "n35-apply"
+          ]
+        },
+        {
+          "sourceTopic": "منادى",
+          "lessonIds": [
+            "n42"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n42-concept",
+            "n42-word-1",
+            "n42-word-2",
+            "n42-word-3",
+            "n42-repair",
+            "n42-meaning-1",
+            "n42-meaning-2",
+            "n42-meaning-3",
+            "n42-apply"
+          ]
+        },
+        {
+          "sourceTopic": "تمییز",
+          "lessonIds": [
+            "n36"
+          ],
+          "sectionCount": 3,
+          "practiceIds": [
+            "n36-concept",
+            "n36-word-1",
+            "n36-word-2",
+            "n36-word-3",
+            "n36-repair",
+            "n36-meaning-1",
+            "n36-meaning-2",
+            "n36-meaning-3",
+            "n36-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مستثنیٰ",
+          "lessonIds": [
+            "n41"
+          ],
+          "sectionCount": 2,
+          "practiceIds": [
+            "n41-concept",
+            "n41-word-1",
+            "n41-word-2",
+            "n41-word-3",
+            "n41-word-4",
+            "n41-repair",
+            "n41-meaning-1",
+            "n41-meaning-2",
+            "n41-meaning-3",
+            "n41-meaning-4",
+            "n41-apply"
+          ]
+        },
+        {
+          "sourceTopic": "مجرورات",
+          "lessonIds": [
+            "n09",
+            "n61"
+          ],
+          "sectionCount": 4,
+          "practiceIds": [
+            "n09-concept",
+            "n09-word-1",
+            "n09-word-2",
+            "n09-word-3",
+            "n09-repair",
+            "n09-meaning-1",
+            "n09-meaning-2",
+            "n09-meaning-3",
+            "n09-apply",
+            "n61-concept",
+            "n61-word-1",
+            "n61-word-2",
+            "n61-word-3",
+            "n61-word-4",
+            "n61-repair",
+            "n61-meaning-1",
+            "n61-meaning-2",
+            "n61-meaning-3",
+            "n61-meaning-4",
+            "n61-apply"
+          ]
+        },
+        {
+          "sourceTopic": "توابع",
+          "lessonIds": [
+            "n46",
+            "n47",
+            "n48",
+            "n49"
+          ],
+          "sectionCount": 9,
+          "practiceIds": [
+            "n46-concept",
+            "n46-word-1",
+            "n46-word-2",
+            "n46-word-3",
+            "n46-word-4",
+            "n46-repair",
+            "n46-meaning-1",
+            "n46-meaning-2",
+            "n46-meaning-3",
+            "n46-meaning-4",
+            "n46-apply",
+            "n47-concept",
+            "n47-word-1",
+            "n47-word-2",
+            "n47-word-3",
+            "n47-word-4",
+            "n47-repair",
+            "n47-meaning-1",
+            "n47-meaning-2",
+            "n47-meaning-3",
+            "n47-meaning-4",
+            "n47-apply",
+            "n48-concept",
+            "n48-word-1",
+            "n48-word-2",
+            "n48-word-3",
+            "n48-repair",
+            "n48-meaning-1",
+            "n48-meaning-2",
+            "n48-meaning-3",
+            "n48-apply",
+            "n49-concept",
+            "n49-word-1",
+            "n49-word-2",
+            "n49-word-3",
+            "n49-repair",
+            "n49-meaning-1",
+            "n49-meaning-2",
+            "n49-meaning-3",
+            "n49-apply"
+          ]
+        },
+        {
+          "sourceTopic": "حروف و ادوات",
+          "lessonIds": [
+            "n28",
+            "n31",
+            "n32",
+            "n39",
+            "n41",
+            "n42",
+            "n47",
+            "n51",
+            "n52",
+            "n53",
+            "n61",
+            "n62",
+            "n66",
+            "n74",
+            "n75"
+          ],
+          "sectionCount": 35,
+          "practiceIds": [
+            "n28-concept",
+            "n28-word-1",
+            "n28-word-2",
+            "n28-word-3",
+            "n28-repair",
+            "n28-meaning-1",
+            "n28-meaning-2",
+            "n28-meaning-3",
+            "n28-apply",
+            "n31-concept",
+            "n31-word-1",
+            "n31-word-2",
+            "n31-word-3",
+            "n31-repair",
+            "n31-meaning-1",
+            "n31-meaning-2",
+            "n31-meaning-3",
+            "n31-apply",
+            "n32-concept",
+            "n32-word-1",
+            "n32-word-2",
+            "n32-word-3",
+            "n32-repair",
+            "n32-meaning-1",
+            "n32-meaning-2",
+            "n32-meaning-3",
+            "n32-apply",
+            "n39-concept",
+            "n39-word-1",
+            "n39-word-2",
+            "n39-word-3",
+            "n39-word-4",
+            "n39-repair",
+            "n39-meaning-1",
+            "n39-meaning-2",
+            "n39-meaning-3",
+            "n39-meaning-4",
+            "n39-apply",
+            "n41-concept",
+            "n41-word-1",
+            "n41-word-2",
+            "n41-word-3",
+            "n41-word-4",
+            "n41-repair",
+            "n41-meaning-1",
+            "n41-meaning-2",
+            "n41-meaning-3",
+            "n41-meaning-4",
+            "n41-apply",
+            "n42-concept",
+            "n42-word-1",
+            "n42-word-2",
+            "n42-word-3",
+            "n42-repair",
+            "n42-meaning-1",
+            "n42-meaning-2",
+            "n42-meaning-3",
+            "n42-apply",
+            "n47-concept",
+            "n47-word-1",
+            "n47-word-2",
+            "n47-word-3",
+            "n47-word-4",
+            "n47-repair",
+            "n47-meaning-1",
+            "n47-meaning-2",
+            "n47-meaning-3",
+            "n47-meaning-4",
+            "n47-apply",
+            "n51-concept",
+            "n51-word-1",
+            "n51-word-2",
+            "n51-word-3",
+            "n51-repair",
+            "n51-meaning-1",
+            "n51-meaning-2",
+            "n51-meaning-3",
+            "n51-apply",
+            "n52-concept",
+            "n52-word-1",
+            "n52-word-2",
+            "n52-word-3",
+            "n52-word-4",
+            "n52-repair",
+            "n52-meaning-1",
+            "n52-meaning-2",
+            "n52-meaning-3",
+            "n52-meaning-4",
+            "n52-apply",
+            "n53-concept",
+            "n53-word-1",
+            "n53-word-2",
+            "n53-word-3",
+            "n53-repair",
+            "n53-meaning-1",
+            "n53-meaning-2",
+            "n53-meaning-3",
+            "n53-apply",
+            "n61-concept",
+            "n61-word-1",
+            "n61-word-2",
+            "n61-word-3",
+            "n61-word-4",
+            "n61-repair",
+            "n61-meaning-1",
+            "n61-meaning-2",
+            "n61-meaning-3",
+            "n61-meaning-4",
+            "n61-apply",
+            "n62-concept",
+            "n62-word-1",
+            "n62-word-2",
+            "n62-word-3",
+            "n62-repair",
+            "n62-meaning-1",
+            "n62-meaning-2",
+            "n62-meaning-3",
+            "n62-apply",
+            "n66-concept",
+            "n66-word-1",
+            "n66-repair",
+            "n66-meaning-1",
+            "n66-apply",
+            "n74-concept",
+            "n74-repair",
+            "n74-word-1",
+            "n74-word-2",
+            "n74-word-3",
+            "n75-concept",
+            "n75-repair",
+            "n75-word-1",
+            "n75-word-2",
+            "n75-word-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "practiceBook": {
+    "name": "تمرین النحو، حصہ اول",
+    "approach": "شناخت، جملہ سازی، اصلاح، اردو سے عربی اور مربوط عبارت؛ اصل کتاب کی ہر تمرین کی بعینہ نقل نہیں۔",
+    "passageLessons": [
+      "n10",
+      "n19",
+      "n28",
+      "n34",
+      "n45",
+      "n55",
+      "n62",
+      "n68",
+      "n75"
+    ]
+  }
+}
