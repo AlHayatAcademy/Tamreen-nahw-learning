@@ -1,9 +1,13 @@
 {
   "lessons": 75,
   "stages": 9,
-  "detailedSections": 156,
+  "detailedSections": 157,
   "mcqs": 638,
   "passages": 9,
-  "reviewCards": 528,
-  "wordAnnotations": 219
+  "reviewCards": 529,
+  "progressiveReaders": 75,
+  "writingExercises": 75,
+  "conceptualQuestionsRewritten": 75,
+  "glossaryTerms": 45,
+  "diagnosticQuestionCount": 638
 }
