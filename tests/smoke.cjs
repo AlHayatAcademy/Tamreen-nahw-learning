@@ -16,7 +16,7 @@ ctx.location.hash='#workshop';els.set('#workshop-lesson',el());els.get('#worksho
 assert(T.valid({done:['n01'],saved:[],mistakes:[]}));assert(!T.valid({done:['missing'],saved:[],mistakes:[]}));assert(!T.valid({done:[],saved:[],mistakes:['fake']}));assert.equal(T.norm('الْكِتَابُ'),T.norm('الکتاب'));
 const html=fs.readFileSync(path.join(root,'index.html'),'utf8'),css=fs.readFileSync(path.join(root,'app-layout.css'),'utf8');assert(html.includes('width=device-width, initial-scale=1'));assert(!/id="print"|window\.print/.test(html+app));assert(!/\bzoom\s*:|scale\(/.test(css));assert(css.includes('#sidebar{display:none!important'));assert(css.includes('repeat(6,minmax(0,1fr))'));assert(css.includes('@media(max-width:700px)'));assert(html.indexOf('app-layout.css')>html.indexOf('styles.css'));
 for(const file of ['assets/fonts/Amiri-Regular.woff2','assets/fonts/JameelNooriNastaleeq.woff2'])assert(fs.statSync(path.join(root,file)).size>1000);
-console.log(`PASS: ${L.length} lessons; ${ids.size} unique questions; 529 review cards; 225 lesson views; routes; retry/scoring; bookmarks/progress; workshop; import validation; static viewport contracts. Browser layout not tested.`);
+console.log(`PASS: ${L.length} lessons; ${ids.size} unique questions; 604 review cards; 225 lesson views; routes; retry/scoring; bookmarks/progress; workshop; import validation; static viewport contracts. Browser layout not tested.`);
 
 assert.equal(ids.size,638);assert.equal(ctx.window.NAHW_VOCABULARY.length,152);assert.equal(ctx.window.NAHW_TERMS.length,45);
 for(const l of L){assert.equal(l.vocabulary.length,l.example.words.length);assert(l.application.ar.endsWith('.')||/[!؟]$/.test(l.application.ar));assert(l.application.explanation.length>40);if(l.number<=68){assert(l.quiz.some(q=>q.kind==='تطبیقِ قاعدہ'));assert(l.quiz.some(q=>q.kind==='الفاظ و معانی'));}}
@@ -46,3 +46,16 @@ console.log('PASS: 75 conceptual questions rewritten; 638 answer-specific diagno
 ctx.location.hash='#lesson/n35/read';T.render();assert(els.get('#view').innerHTML.includes('data-term='));assert(els.get('#view').innerHTML.includes('data-reading-mode="plain"'));
 T.startQuiz([{q:L[34].quiz[0],l:L[34]}],'n35');assert(!els.get('#view').innerHTML.includes('class="term-link"'));T.answer(1);assert(els.get('#quiz-feedback').innerHTML.includes('موصوف'));
 console.log('PASS: first-mention term links occur in teaching prose; no nested terminology buttons in quiz answers; selected-error explanation is displayed.');
+const reviewItems=L.flatMap(l=>[...l.qa,l.additionalExample.practice,...l.sections.map(s=>s.practice),...(l.passage?.questions||[])]);
+assert.equal(reviewItems.length,604);
+for(const l of L){
+ assert(l.example.explanation.length>200,l.id+' detailed explanation');
+ for(const token of l.example.explanation.matchAll(/\{(\d+)\}/g))assert(l.example.words[Number(token[1])],l.id+' word reference');
+ const x=l.additionalExample;assert(x.ar&&x.ur&&x.analysis.length>80&&x.practice.q&&x.practice.a,l.id+' additional example');
+ assert.equal(x.practice.context,x.ar);
+ ctx.location.hash='#lesson/'+l.id+'/read';T.render();assert(els.get('#view').innerHTML.includes(x.ar),l.id+' extra example visible');
+ assert(!/\{\d+\}/.test(els.get('#view').innerHTML),l.id+' resolved word placeholders');
+}
+for(const q of reviewItems){assert(q.context||q.contexts?.length,'review context');assert(!['اس مثال کا مطلب کیا ہے؟','پوری عبارت کے اجزا کیسے جڑتے ہیں؟','تقابلی مثال میں کیا فرق سمجھنا ہے؟'].includes(q.q));}
+ctx.location.hash='#review';T.render();assert(els.get('#view').innerHTML.includes(L[0].example.ar));
+console.log('PASS: 75 expanded explanations; 75 additional solved examples rendered; all 604 review cards carry their Arabic context; vague review prompts removed.');

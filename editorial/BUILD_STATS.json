@@ -4,10 +4,12 @@
   "detailedSections": 157,
   "mcqs": 638,
   "passages": 9,
-  "reviewCards": 529,
+  "reviewCards": 604,
   "progressiveReaders": 75,
   "writingExercises": 75,
   "conceptualQuestionsRewritten": 75,
   "glossaryTerms": 45,
-  "diagnosticQuestionCount": 638
+  "diagnosticQuestionCount": 638,
+  "extendedMainExamples": 75,
+  "additionalWorkedExamples": 75
 }
